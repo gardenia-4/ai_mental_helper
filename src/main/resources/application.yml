@@ -12,10 +12,10 @@ spring:
 
   ai:
     openai:
-      api-key:
+      api-key:**********************
       base-url: https://api.deepseek.com
       chat:
-        options:********************
+        options:
           model: deepseek-v4-pro
           temperature: 0.7
 
