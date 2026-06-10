@@ -1,0 +1,9 @@
+package com.example.ai_mental_helper.dao;
+
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.example.ai_mental_helper.entity.SysLog;
+import org.apache.ibatis.annotations.Mapper;
+
+@Mapper
+public interface SysLogMapper extends BaseMapper<SysLog> {
+}
